@@ -1,0 +1,13 @@
+{
+  "bot_token": "PASTE_LA_TUA_TOKEN_DEL_BOT",
+  "channels": [
+    123456789012345678
+  ],
+  "webhook_url": "https://discord.com/api/webhooks/...",
+  "keywords": [
+    "restock",
+    "shock drop"
+  ],
+  "ignore_bot_messages": true,
+  "include_attachments": true
+}

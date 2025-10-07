@@ -1,0 +1,6 @@
+{
+  "whitelist": ["faoschwarz.it", "popsplanet.it","paniate.it"],
+  "poll_ms": 400,
+  "max_seen": 80,
+  "profile_dir": "%LOCALAPPDATA%\\ResellProfile"
+}
